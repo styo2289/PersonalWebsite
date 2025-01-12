@@ -1,0 +1,24 @@
+/* CSS Document */
+
+.button{
+	text-decoration: none;
+	background-color: #3a5a40;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+.table {
+	background-color: #a3b18a;
+	width: 100%;
+}
+
+.row{
+	text-align: center;
+	background-color: #3a5a40;
+}
+
+.body{
+	background-color: #212121;
+}
